@@ -1,0 +1,16 @@
+[
+  {
+    "Total_Users": 386223,
+    "Total_Messages": 8869045,
+    "Total_Original_Tweets": 547381,
+    "Total_Retweet_Messages": 6946919,
+    "Linked_Retweets": 6419055,
+    "Distinct_Original_Tweets_Retweeted": 238726,
+    "Total_User_Retweet_Edges": 6419055,
+    "Unique_Retweeters_OutDegree": 252205,
+    "Unique_Authors_InDegree": 26986,
+    "Retweet_Ratio_Percent": 78.33,
+    "Avg_Retweets_Per_Active_User": 25.45,
+    "Avg_Retweets_Received_Per_Author": 237.87
+  }
+]

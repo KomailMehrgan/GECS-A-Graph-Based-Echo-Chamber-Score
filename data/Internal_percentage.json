@@ -1,0 +1,62 @@
+[
+  {
+    "Chamber_ID": 31969,
+    "Internal_Retweets": 691,
+    "External_Retweets": 19,
+    "Internal_Percentage": 97.32
+  },
+  {
+    "Chamber_ID": 21579,
+    "Internal_Retweets": 9739,
+    "External_Retweets": 496,
+    "Internal_Percentage": 95.15
+  },
+  {
+    "Chamber_ID": 17287,
+    "Internal_Retweets": 28544,
+    "External_Retweets": 3732,
+    "Internal_Percentage": 88.44
+  },
+  {
+    "Chamber_ID": 22493,
+    "Internal_Retweets": 1087,
+    "External_Retweets": 173,
+    "Internal_Percentage": 86.27
+  },
+  {
+    "Chamber_ID": 17381,
+    "Internal_Retweets": 36098,
+    "External_Retweets": 5804,
+    "Internal_Percentage": 86.15
+  },
+  {
+    "Chamber_ID": 1000,
+    "Internal_Retweets": 29399,
+    "External_Retweets": 5008,
+    "Internal_Percentage": 85.44
+  },
+  {
+    "Chamber_ID": 27903,
+    "Internal_Retweets": 21668,
+    "External_Retweets": 5180,
+    "Internal_Percentage": 80.71
+  },
+  {
+    "Chamber_ID": 9053,
+    "Internal_Retweets": 374334,
+    "External_Retweets": 149724,
+    "Internal_Percentage": 71.43
+  },
+  {
+    "Chamber_ID": 17192,
+    "Internal_Retweets": 169952,
+    "External_Retweets": 117594,
+    "Internal_Percentage": 59.1
+  },
+  {
+    "Chamber_ID": 17526,
+    "Internal_Retweets": 4689,
+    "External_Retweets": 5779,
+    "Internal_Percentage": 44.79
+  }
+]

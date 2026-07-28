@@ -1,0 +1,92 @@
+[
+  {
+    "Chamber_ID": 31969,
+    "Isolation_Score": 97.32,
+    "Modularity_Score": 0.709,
+    "Density_Score": 0.11457740471367986,
+    "Deafness_Score": 0.0,
+    "Fixation_Score": 98.45714285714286,
+    "CECS": 39.206429766657024
+  },
+  {
+    "Chamber_ID": 21579,
+    "Isolation_Score": 95.15,
+    "Modularity_Score": 9.605,
+    "Density_Score": 0.384501900505421,
+    "Deafness_Score": 53.89999999999999,
+    "Fixation_Score": 78.69999999999999,
+    "CECS": 49.19290038010108
+  },
+  {
+    "Chamber_ID": 17287,
+    "Isolation_Score": 88.44,
+    "Modularity_Score": 25.47,
+    "Density_Score": 0.4460064300002192,
+    "Deafness_Score": 41.92,
+    "Fixation_Score": 50.671428571428564,
+    "CECS": 45.1663441431429
+  },
+  {
+    "Chamber_ID": 22493,
+    "Isolation_Score": 86.27,
+    "Modularity_Score": 1.113,
+    "Density_Score": 0.535209358419136,
+    "Deafness_Score": 0.09000000000000119,
+    "Fixation_Score": 98.0142857142857,
+    "CECS": 36.03007044311239
+  },
+  {
+    "Chamber_ID": 17381,
+    "Isolation_Score": 86.15,
+    "Modularity_Score": 30.718999999999998,
+    "Density_Score": 0.6562727465567949,
+    "Deafness_Score": 0.9600000000000053,
+    "Fixation_Score": 83.1,
+    "CECS": 40.622054549311365
+  },
+  {
+    "Chamber_ID": 1000,
+    "Isolation_Score": 85.44,
+    "Modularity_Score": 25.954999999999995,
+    "Density_Score": 0.294966789396515,
+    "Deafness_Score": 71.59,
+    "Fixation_Score": 69.32857142857142,
+    "CECS": 52.132850500736446
+  },
+  {
+    "Chamber_ID": 27903,
+    "Isolation_Score": 80.71,
+    "Modularity_Score": 19.816,
+    "Density_Score": 0.26437227988569945,
+    "Deafness_Score": 67.63,
+    "Fixation_Score": 57.18571428571428,
+    "CECS": 47.47364588454857
+  },
+  {
+    "Chamber_ID": 9053,
+    "Isolation_Score": 71.43,
+    "Modularity_Score": 0,
+    "Density_Score": 0.34031692216627535,
+    "Deafness_Score": 4.910000000000004,
+    "Fixation_Score": 30.042857142857137,
+    "CECS": 25.48334909871897
+  },
+  {
+    "Chamber_ID": 17192,
+    "Isolation_Score": 59.1,
+    "Modularity_Score": 0,
+    "Density_Score": 0.4577560951554485,
+    "Deafness_Score": 30.810000000000002,
+    "Fixation_Score": 38.442857142857136,
+    "CECS": 27.827836933316807
+  },
+  {
+    "Chamber_ID": 17526,
+    "Isolation_Score": 44.79,
+    "Modularity_Score": 4.584999999999999,
+    "Density_Score": 0.40001186389322546,
+    "Deafness_Score": 18.130000000000003,
+    "Fixation_Score": 0,
+    "CECS": 18.060002372778644
+  }
+]

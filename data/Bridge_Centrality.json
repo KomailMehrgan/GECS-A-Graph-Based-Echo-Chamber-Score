@@ -1,0 +1,42 @@
+[
+  {
+    "Chamber_ID": 31969,
+    "Bridge_Concentration_Score": 1.0
+  },
+  {
+    "Chamber_ID": 22493,
+    "Bridge_Concentration_Score": 0.9991
+  },
+  {
+    "Chamber_ID": 17381,
+    "Bridge_Concentration_Score": 0.9904
+  },
+  {
+    "Chamber_ID": 9053,
+    "Bridge_Concentration_Score": 0.9509
+  },
+  {
+    "Chamber_ID": 17526,
+    "Bridge_Concentration_Score": 0.8187
+  },
+  {
+    "Chamber_ID": 17192,
+    "Bridge_Concentration_Score": 0.6919
+  },
+  {
+    "Chamber_ID": 17287,
+    "Bridge_Concentration_Score": 0.5808
+  },
+  {
+    "Chamber_ID": 21579,
+    "Bridge_Concentration_Score": 0.461
+  },
+  {
+    "Chamber_ID": 27903,
+    "Bridge_Concentration_Score": 0.3237
+  },
+  {
+    "Chamber_ID": 1000,
+    "Bridge_Concentration_Score": 0.2841
+  }
+]
